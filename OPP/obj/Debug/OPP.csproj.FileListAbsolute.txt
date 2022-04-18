@@ -1,0 +1,7 @@
+C:\Users\WIN-PRO\source\repos\OPP\OPP\bin\Debug\OPP.exe.config
+C:\Users\WIN-PRO\source\repos\OPP\OPP\bin\Debug\OPP.exe
+C:\Users\WIN-PRO\source\repos\OPP\OPP\bin\Debug\OPP.pdb
+C:\Users\WIN-PRO\source\repos\OPP\OPP\obj\Debug\OPP.csprojAssemblyReference.cache
+C:\Users\WIN-PRO\source\repos\OPP\OPP\obj\Debug\OPP.csproj.CoreCompileInputs.cache
+C:\Users\WIN-PRO\source\repos\OPP\OPP\obj\Debug\OPP.exe
+C:\Users\WIN-PRO\source\repos\OPP\OPP\obj\Debug\OPP.pdb
